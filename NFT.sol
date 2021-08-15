@@ -6,7 +6,7 @@ import "https://github.com/0xcert/ethereum-erc721/src/contracts/ownership/ownabl
 /**
  * @dev This is an example contract implementation of NFToken with metadata extension.
  */
-contract ChineseGuoHua is
+contract NFT is
   NFTokenMetadata,
   Ownable
 {
